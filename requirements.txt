@@ -1,0 +1,5 @@
+pandas==0.25.3
+numpy==1.17.4
+azure-storage-blob==12.1.0
+ipython-secrets==1.1.1
+keyring==20.0.0
